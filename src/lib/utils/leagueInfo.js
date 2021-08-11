@@ -8,7 +8,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 export const homepageText = `
   <p>Die No Punt Intended Dynasty League wurde im Jahr 2021 gegründet, um die besten Fantasyspieler Deutschlands - wenn nicht sogar der Welt - zusammenzuführen und gegeneinander antreten zu lassen.</p>
   <p>Spieler aus ganz Deutschland (aber komischerweise irgendwie vorwiegend aus Hamburg und Münster) kämpfen um den umworbenen Titel des allerbesten Dynastyfootballspielers.</p>
-  <p>Die Teilnehmer müssen all ihr Wissen und Können unter Beweis stellen, wenn sie auch nur eine Chance auf die Trophäe haben wollen, denn wie jeder weiß: mit Glück hat das Ganze überhaupt nicht zu tun</p>
+  <p>Die Teilnehmer müssen all ihr Wissen und Können unter Beweis stellen, wenn sie auch nur eine Chance auf die Trophäe haben wollen, denn wie jeder weiß: mit Glück hat das Ganze überhaupt nicht zu tun.</p>
 `;
 
 /*   STEP 3   */

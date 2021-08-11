@@ -239,7 +239,7 @@ export const managers = [
      "mode": "Win Now", // 'Win Now' or 'Rebuild'
      "rival": {
        name: "Ulf", // Can be anything (usually your rival's name)
-       link: 0, // manager array number within this array, or null to link back to all managers page
+       link: 1, // manager array number within this array, or null to link back to all managers page
        image: "/managers/ulle2.jpg", // either a specific manager photo or 'everyone' or 'question'
      },
      "favoritePlayer": 3164, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)

@@ -60,6 +60,11 @@
 		background-image: url("/division-3-banner.png");
 		background-position: left; 
 	}
+	
+	.banner-D-4 {
+		background-image: url("/division-4-banner.png");
+		background-position: right; 
+	}
 
 	h2 {
 		text-align: center;

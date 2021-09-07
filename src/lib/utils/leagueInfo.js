@@ -1,7 +1,7 @@
 /*   STEP 1   */
 export const leagueID = "662332565339865088"; // your league ID
 export const leagueName = "No Punt Intended Dynasty League"; // your league name
-export const dues = 15; // (optional) used in template constitution page
+export const dues = 20; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 
 /*   STEP 2   */
@@ -35,7 +35,7 @@ export const managers = [
        link: 9, // manager array number within this array, or null to link back to all managers page
        image: "/managers/kai.jpg", // either a specific manager photo or 'everyone' or 'question'
      },
-     "favoritePlayer": 7544, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+     "favoritePlayer": 6945, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      "valuePosition": "TE", // Favorite position (QB, WR, RB, TE, etc.)
      "rookieOrVets": "Vets", // 'Rookies' or 'Vets'
      "philosophy": "Your fantasy team's philosophy",

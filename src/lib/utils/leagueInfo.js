@@ -308,7 +308,7 @@ export const managers = [
        link: 8, // manager array number within this array, or null to link back to all managers page
        image: "/managers/max.jpg", // either a specific manager photo or 'everyone' or 'question'
      },
-     "favoritePlayer": 3682, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+     "favoritePlayer": 4988, // this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
      "valuePosition": "RB", // Favorite position (QB, WR, RB, TE, etc.)
      "rookieOrVets": "Rookies", // 'Rookies' or 'Vets'
      "philosophy": "Your fantasy team's philosophy",
